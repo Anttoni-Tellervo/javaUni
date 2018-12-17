@@ -1,0 +1,27 @@
+- blood_slide_karma
+- blood_slide_promenna
+- blood_slide_udalosti
+- blood_slide_udalosti_akce
+- blood_slide_udalosti_podminky
+
+http://test.tellervo.cz/index.php?xfunction=xbloodZvolitMoznost&lokalita=hrbitov&id=38
+
+
+
+
+jira_jf
+PinkiePie!6
+
+bitbucket_jf
+FlutterShy!7
+
+confluence_jf
+RainbowDash!2
+8053
+8054
+
+
+Dnešní den patøí mezi dny, kdy je nezbytná opatrnost. Vzhledem k tomu, že dochází k prolínání rovin, mohou do té naší proniknout vìci podivné a nebezpeèné a tak i zkušení mágové musí být pøipraveni skoro na cokoli. Naštìstí posledních nìkolik let se nic v tento den nestalo. Nezmizel ani jeden student a žádný z profesorù nemusel èelit démonùm z poza Opony. Bude tento rok jiný? Doufejme, že ne.
+
+
+82410,82493,83536,83565,83586,83674,83695,83847

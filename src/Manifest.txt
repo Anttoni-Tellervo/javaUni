@@ -1,0 +1,1 @@
+Main-Class: ukoly2.Spustit
